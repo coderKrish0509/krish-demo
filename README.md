@@ -1,4 +1,4 @@
 # krish-demo
 This is my demo repository.
 <br>
-Author - Krishna Pradhan
+Author - Krishna (Coder Krish)
